@@ -48,7 +48,7 @@ python main.py
 
 ## Output
 
-![Output](output.png)
+[View Output Image](output.png)
 
 ---
 
