@@ -46,7 +46,9 @@ python main.py
 
 ## 🖼️ Output
 
-![Output](images/output.png)
+## Output
+
+![Output](output.png)
 
 ---
 
